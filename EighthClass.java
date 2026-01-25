@@ -36,7 +36,7 @@ public class EighthClass {
         //System.out.println(greeting);
     } */
 
-    public static void fullThrottle(){
+    public void fullThrottle(){
         System.out.println("The car is going as fast as it can");
     }
 
